@@ -1,5 +1,5 @@
 ## Raytracer
-Custom built Raytracer that includes rendering of .obj files, image textures, lights, cameras, normal determination, antialiasing, materials (metal, dielectric, lambert), and animation system. 
+Custom built Raytracer that includes rendering of .obj files, polygonal meshes, parametric surfaces, image textures, lights, cameras, normal determination, antialiasing, materials (metal, dielectric, lambert), and animation system. 
 
 Based on Peter Shirley's raytracing series.
 
