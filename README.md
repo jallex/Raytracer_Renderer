@@ -14,7 +14,7 @@ Run using the commands:
 ## Example Renders:
 
  <p align="center">
-   <img src="./Renders/bunny_animation.gif">
+   <img src="./Renders/bunny_hop_full_turn.gif">
   </p>
   
    <p align="center">
